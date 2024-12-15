@@ -1,4 +1,4 @@
-#!/Users/oleksandrmorozov/Study/python-lection/venv/bin/python3.12
+#!/media/oleksandr/14007D4D007D36B8/Users/Learning/python-lection/venv/bin/python3
 # -*- coding: utf-8 -*-
 import re
 import sys
